@@ -4,4 +4,4 @@ Scripts, configs and other things I sometimes use.
 ## alias
 
 - `compare-dir` - Recursively compares contents of two directories. Made to be loaded via bashrc or analogue.
-- `start-vnc` - Starts vncserver with parameters I like to use and ability to add some more or specify port.
+- `start-vnc` - Starts vncserver with parameters I like to use. It also allows to insert more parameters and specify port.
