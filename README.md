@@ -1,6 +1,7 @@
 # tools
 Scripts, configs and other things I sometimes use.
 
-## scripts
+## alias
 
 - `compare-dir` - Recursively compares contents of two directories. Made to be loaded via bashrc or analogue.
+- `start-vnc` - Starts vncserver with parameters I like to use and ability to add some more or specify port.
