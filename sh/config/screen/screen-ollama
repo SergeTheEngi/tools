@@ -1,0 +1,16 @@
+split
+screen
+resize -v +7
+focus
+screen
+split -v
+focus
+screen
+focus
+exec ... ollama run mistral --keepalive -1m
+focus
+exec ... nvtop
+focus
+exec ... htop
+focus
+layout save default
