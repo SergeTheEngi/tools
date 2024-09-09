@@ -10,3 +10,6 @@ bind k focus up
 bind l focus right
 bind t focus top
 bind b focus bottom
+bind q quit
+
+layout save default
