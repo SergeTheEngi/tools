@@ -14,3 +14,11 @@ focus
 exec ... htop
 focus
 layout save default
+
+# Bindings
+bind h focus left
+bind j focus down
+bind k focus up
+bind l focus right
+bind t focus top
+bind b focus bottom
