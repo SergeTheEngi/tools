@@ -13,7 +13,6 @@ exec ... nvtop
 focus
 exec ... htop
 focus
-layout save default
 
 # Bindings
 bind h focus left
@@ -22,3 +21,6 @@ bind k focus up
 bind l focus right
 bind t focus top
 bind b focus bottom
+bind q quit
+
+layout save default
